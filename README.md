@@ -1,14 +1,14 @@
 # Seattle Airbnb Market Performance & Revenue Analysis
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboard-E97627?style=flat&logo=tableau)](https://public.tableau.com/app/profile/phyo.paing8212/viz/airbnb_analysis_17901513018730/Dashboard1)
-[![Google Drive](https://img.shields.io/badge/Google_Drive-Raw_Data-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pmh1SwwtRqr5Ad_hs3j6jdF9WpR8dMIK)
+[![Google Drive](https://img.shields.io/badge/Google_Drive-Dataset-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pmh1SwwtRqr5Ad_hs3j6jdF9WpR8dMIK)
 
 ---
 
 ## Project Overview
 
 * Live Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/phyo.paing8212/viz/airbnb_analysis_17901513018730/Dashboard1)
-* Dataset: [Access Raw Data on Google Drive](https://drive.google.com/drive/folders/1pmh1SwwtRqr5Ad_hs3j6jdF9WpR8dMIK)
+* Dataset: [Access Dataset on Google Drive](https://drive.google.com/drive/folders/1pmh1SwwtRqr5Ad_hs3j6jdF9WpR8dMIK)
 * Tools & Technologies: Tableau Desktop, Tableau Public, Microsoft Excel
 * Dataset Scope: Comprehensive Seattle Airbnb market dataset (`airbnb_data.xlsx`) comprising 3,818 unique property listings, 84,849 customer reviews, and over 1,000,000 calendar availability and booking records across 2016.
 * Business Objective: Short-term rental hosts and real estate investors often struggle with dynamic rate setting, seasonal variance, and hyper-local location premiums. This project consolidates listing metrics, calendar booking activity, and geographic parameters into an interactive Tableau dashboard, empowering hosts to identify optimal price points by property size, track seasonal revenue peaks, and evaluate neighborhood supply dynamics.
